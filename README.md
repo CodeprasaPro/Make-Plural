@@ -25,7 +25,7 @@ confining in a local web server testing.
 ![result_one](https://user-images.githubusercontent.com/80448655/149666747-4ec4bb9c-7d54-4c4e-818c-da9b95e1c2b4.jpg)
 
 
-<h4> Changing values in the script and showing the affected results on the local server marking with the blue squares around the affected values. </h4> 
+<h4> Changing values in the script and showing the affected results on the local server marking with the blue squares around both script and the affected values. </h4> 
 ![script2](https://user-images.githubusercontent.com/80448655/149666764-5b19e195-7b4a-4e60-a826-6720af44e871.jpeg)
 ![result_two](https://user-images.githubusercontent.com/80448655/149666827-af9ad35d-dd96-467f-bdd7-6204a92c7b4a.jpeg)
 
